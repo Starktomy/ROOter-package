@@ -22,7 +22,7 @@ define Package/ext-rooter16
 		+ext-command  \
 		+ext-extra +luci-app-wol \
 		+qlog +usbutils +openssl-util +irqbalance +ext-splashconfig \
-		+nano +picocom +wpad +wget +qfirehose
+		+nano +picocom +wget +qfirehose
   TITLE:=ROOter support for 16meg and larger routers
   PKGARCH:=all
 endef
