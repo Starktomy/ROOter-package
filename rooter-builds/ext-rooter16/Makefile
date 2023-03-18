@@ -17,7 +17,7 @@ define Package/ext-rooter16
 		+luci-app-mwan3 \
 		+luci-app-ddns +ddns-scripts \
 		+bwmon +464xlat +luci-app-ttyd \
-		+ca-bundle +ca-certificates +libustream-wolfssl \
+		+ca-bundle +ca-certificates \
 		+luci-app-sqm +kmod-sched-cake \
 		+ext-command  \
 		+ext-extra +luci-app-wol \
