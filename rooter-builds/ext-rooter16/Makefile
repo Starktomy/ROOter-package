@@ -21,7 +21,7 @@ define Package/ext-rooter16
 		+luci-app-sqm +kmod-sched-cake \
 		+ext-command  \
 		+ext-extra +luci-app-wol \
-		+qlog +luci-ssl +usbutils +openssl-util +irqbalance +ext-splashconfig \
+		+qlog +usbutils +openssl-util +irqbalance +ext-splashconfig \
 		+nano +picocom +wpad +wget +qfirehose
   TITLE:=ROOter support for 16meg and larger routers
   PKGARCH:=all
